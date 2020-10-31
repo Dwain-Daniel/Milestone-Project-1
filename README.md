@@ -1,45 +1,26 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+*Milestone Project 1!*
 
-Welcome USER_NAME,
+This project will be used to display all that I have learned so far. I will be using this project to build a website to describe what i can do and what i attain to do in the future. 
+I will be using this website continuously as I learn new skills and adding new features progressively. At this moment in time i may not have all the skills
+I would like to have to incorporate all the features that i would like to have in the finished article.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+*UX*
 
-## Gitpod Reminders
+I want my site to be quite minimalistic and simple whilst remaining effective. 
+I would like any future employers to look at my site as an advert for what i can do as well as see the willingness to learn new skills.
+I have an attractive home page with links to the different pages of interest in the top corner. 
+These links will remain the same in my header on every page throughout my project.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The links in my footer will be clear and interactive to catch the users attention. All pages will be linked to each other,
+the user will not need to come back to the home page in order to reach a different page. 
 
-`python3 -m http.server`
+I have included my Balsamiq template for my project.
 
-A blue button should appear to click: *Make Public*,
+*Features*
 
-Another blue button should appear to click: *Open Browser*.
+In my header i will be having the links illuminate as the cursor moves over them.
+Each page will have the same theme running throughout it. I would like to include different colour borders around my sections, page by page to help differentiate the pages. 
+On my resume page I will add a download button so employers can download copies of my CV. 
+On my contact page i would like to include links to my facebook, linkdIn, twitter etc etc using logos.
+I would also like to include a form that can be used to request a collaboration effort. 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!

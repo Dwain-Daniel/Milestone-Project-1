@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+/*-------colours*/
+.bg-color-header{
+    background-color: #333333;
+}
+
+
+/*-------Heading*/
+header{
+    margin:0;
+}
+
+.heading {
+    min-height: 120px;
+    background-color: #333333; 
+    margin-top: 0px;
+    padding-top: 5px;
+}
+
+.logo {
+    float: left;
+    font-family: "Exo", sans-serif;
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+}
+
+.name{
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    font-size: 46px;
+    margin-top: 5px; 
+    border-bottom: 1px solid black;
+    color: black;
+}
+
+.title{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: black;
+}
+
+.menucontainer li{
+    float: right;
+    margin-right: 30px;
+    list-style-type: none;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    display: inline-block
+}
+
+.menucontainer a {
+    text-decoration: none;
+    color: black;
+}
+
+.menucontainer{
+    line-height: 75px;
+}
+
+.menucontainer a:hover {
+    border-bottom: 1px solid black;
+}
+
+.active {
+    border-bottom: 1px solid black;
+}
+
+ 
+/*-------Heading*/
+.background{
+    background-image: url(...images/big1.jpg);
+    background-position: center;
+}

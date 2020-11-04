@@ -83,3 +83,29 @@ header{
     background-image: url(...images/big1.jpg);
     background-position: center;
 }
+
+/*------------------------------------------------------About me*/
+
+/*--------Colours*/
+.bg-color-about-me{
+    background-color: #dddddd;
+}
+
+.bg-color-personal-info{
+    background-color: blue;
+}
+/*-----[---heading*/
+.section-heading{
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+}
+
+.row-table{
+    display: table;
+}
+
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+}

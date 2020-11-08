@@ -100,13 +100,29 @@ header{
 .left-div {
     border: 1px solid red;
     background-color: purple;
-    margin-left: -15px;
-    margin-top: -5px;
 }
 
 .right-div {
     border: 1px solid blue;
     background-color: yellow;
-    margin-right: -45px;
-    margin-top: -5px;
 }
+
+.background-image{
+    width: 100%;
+}
+
+.work-history ul{
+    font-family: "Roboto" sans-serif;
+    font-weight: 400;
+    font: blue;
+}
+
+.personal-details ul li{
+    font-family: "Roboto" sans-serif;
+    font-weight: 400;
+    color: black;  
+}
+
+.contact-links{
+    color: black;
+} 

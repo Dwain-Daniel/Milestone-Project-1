@@ -73,9 +73,6 @@ header{
     border-bottom: 1px solid #ffffff;
 }
 
- 
-/*-------Heading*/
-
 
 /*------------------------------------------------------About me*/
 
@@ -107,24 +104,25 @@ header{
     margin-top: 0px;
     padding-bottom: 50px;
 }
-hero-image{
-    width: 100%
-}
 
 .background-image{
     width: 100%;
+    padding-right: -150px;
+    margin-top: -15px;
 }
 
 .work-history ul{
     font-family: "Exo" sans-serif;
-    font-weight: 400;
-    color:black;
+    font-weight: 100;
+    color: black;
+    font-size: 20px;
+    padding-bottom: 15px;
 }
 
 .personal-details ul li{
     font-family: "Roboto" sans-serif;
     font-weight: 400;
-    color: black;  
+    color:red;  
 }
 
 .contact-links a{
@@ -147,4 +145,13 @@ button[type="submit"] {
     margin-bottom: 20px;
     color: black;
     background-color: #cccccc;
+}
+
+.center-form{
+    padding-left: 10px;
+}
+
+li{
+    text-decoration: none;
+    color: black;
 }

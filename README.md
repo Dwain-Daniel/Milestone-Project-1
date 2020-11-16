@@ -18,9 +18,48 @@ I have included my Balsamiq template for my project.
 
 *Features*
 
-In my header i will be having the links illuminate as the cursor moves over them.
-Each page will have the same theme running throughout it. I would like to include different colour borders around my sections, page by page to help differentiate the pages. 
-On my resume page I will add a download button so employers can download copies of my CV. 
-On my contact page i would like to include links to my facebook, linkdIn, twitter etc etc using logos.
-I would also like to include a form that can be used to request a collaboration effort. 
+In the top left of each page there is a link that will take the user back to the Home Page. This will be a link using "Dwain Daniel, Full Stack Developer"
+The links in the header are consistent throughout the site and allow you to get to all pages from any page the user is on. The order of link are consistent, also using icons to 
+help to better describe the links.
+The links in the Resume section will take the user to the sites I have worked on previously (the ones listed are simply for examples)
+The links under Contact Details will take the user to my social media pages and my Git Hub repository
 
+
+*Features left to implement* 
+I would like to add a number of features going forward such as: 
+Link the Collaboration form to an external mailbox
+Add a download Resume button/link
+An online store selling packages for development ideas/pricing plans
+
+*Technologies Used* 
+I have built my site using: 
+
+CSS https://en.wikipedia.org/wiki/CSS 
+CSS allows me to edit and decorate my site in the way I see fit. It gives me the ability to edit my HTML and create classes.
+
+HTML https://en.wikipedia.org/wiki/HTML 
+
+Bootstrap (4.5.3) https://getbootstrap.com/ 
+I used Bootstrap because it allowed me to build a responsive website with the limited knowledge and skills I currently have. It was also used in my Nav Bar and
+to separate my divs into separate sizes across my site. 
+
+Balsamiq https://balsamiq.com/# 
+I used Balsamiq to help create my template website and try design a quality site. 
+
+*Testing* 
+
+I have tested my site thoroughly, all the links are working and take the user to the correct pages. 
+The contact form is fully functioning, if the user inputs an invalid message into any text field then an error message will appear. For example and email address with no @ symbol
+The webpage will respond when used on smaller devices, the nav bar will shrink down into a drop down menu. 
+
+*Deployment*
+
+I have used GitHub Pages to deploy the page. 
+
+*Credits*
+
+Media - I found my images used on https://www.pexels.com/ and https://unsplash.com/  
+
+*Acknowledgements* 
+
+I received inspiration for my project from a website I designed on https://www.wix.com/ 

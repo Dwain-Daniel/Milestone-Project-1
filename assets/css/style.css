@@ -3,6 +3,7 @@
 /*-------------- Images*/
 .background-image img {
 height: 100vh;
+width: 100%;
 }
 
 .about-image img{
@@ -19,6 +20,13 @@ height: 100vh;
 .personal-image img{
     padding-bottom: 60px;
 }
+
+.contact-image {
+    height: 64%;
+}
+
+/*-------------- Nav*/
+
 .name {
 font-family : "Exo", sans-serif;
 font-weight : 300;
@@ -37,39 +45,7 @@ margin-top: -10px;
 margin-bottom: -10px;
 color: royalblue;
 }
-
-.active {
-border-bottom : 1px solid #ffffff;
-}
-
-.bg-color-about-me {
-background-color : #dddddd;
-}
-
-.section-heading {
-font-family : "Exo", sans-serif;
-font-weight : 500;
-margin-top : 25px;
-margin-bottom : 40px;
-text-align: center;
-}
-
-.left-div {
-border : blue solid 1px;
-background-color : royalblue;
-margin-top : 0;
-padding-bottom : 15px;
-padding-left: 5px;
-}
-
-.right-div {
-border : blue solid 1px;
-background-color : lightgrey;
-margin-top : 0;
-padding-bottom : 50px;
-}
-
-
+/*-------------- Lists/Links*/
 
 .work-history ul {
 list-style: none;
@@ -90,18 +66,6 @@ margin-bottom: 100px;
 padding-left: 15px;
 }
 
-
-
-.about-me{
-    color: black;
-    margin-bottom: 100px;
-}
-
-
-
-.contact-image {
-    height: 64%;
-}
 .contact-links a {
 color : black;
 text-decoration : none;
@@ -119,6 +83,46 @@ padding-left: 15px;
 border-bottom : 1px solid black;
 }
 
+.active {
+border-bottom : 1px solid #ffffff;
+}
+
+
+
+/*-------------- Headings*/
+
+.section-heading {
+font-family : "Exo", sans-serif;
+font-weight : 500;
+margin-top : 25px;
+margin-bottom : 40px;
+text-align: center;
+}
+
+.about-me{
+    color: black;
+    margin-bottom: 100px;
+}
+
+/*-------------- Divs*/
+
+.left-div {
+border : blue solid 1px;
+background-color : royalblue;
+margin-top : 0;
+padding-bottom : 15px;
+padding-left: 5px;
+}
+
+.right-div {
+border : blue solid 1px;
+background-color : lightgrey;
+margin-top : 0;
+padding-bottom : 50px;
+}
+
+/*-------------- Form*/
+
 .collab-form {
 margin-top : 125px;
 }
@@ -134,6 +138,19 @@ background-color : #cccccc;
 padding-left : 10px;
 }
 
-#navbarNav ul{
-    float: right;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

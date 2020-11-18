@@ -96,4 +96,5 @@ Media - I found my images used on https://www.pexels.com/ and https://unsplash.c
 <h3>Acknowledgements</h3> 
 
 I received inspiration for my project from a website I designed on https://www.wix.com/dashboard/8382ebdf-1005-401b-acae-10f20c642ad9/home
-My mentor for helping me. 
+
+Also I thank my mentor for helping me and providing the guidance I needed. 

@@ -29,10 +29,10 @@ The links under Contact Details will take the user to my social media pages and 
 
 <h3>Features left to implement</h3>
 
-I would like to add a number of features going forward such as: 
-Link the Collaboration form to an external mailbox
-Add a download Resume button/link
-An online store selling packages for development ideas/pricing plans
+I would like to add a number of features going forward such as: <br>
+<li>Link the Collaboration form to an external mailbox</li>
+<li>Add a download Resume button/link</li>
+<li>An online store selling packages for development ideas/pricing plans</li>
 
 <h3> Technologies Used </h3>
 
@@ -70,17 +70,17 @@ I placed my site throught a CSS Validator which returned no errors <img src="ass
 
 I have viewed the site on both mobiles and laptop devices. On iPhones I have noticed that the mobile number was automatically made into a clickable link.
 Whilst this is a helpful feature to promote interaction, the colour of the link is blue. This is similar to the colour of the background. This doesnt happen on the laptop.
-I have tried to remove this using <meta name="format-detection" content="telephone=no">
+I have tried to remove this using "<meta name="format-detection" content="telephone=no">"
 
 <h3>Deployment</h3>
 
 I have used GitHub Pages to deploy the page using the following steps:
 
-I logged in to GitHub and located the GitHub Repository Milestone Project 1
-I then clicked the Settings button on the menu.
-I scrolled down the Settings page to the "GitHub Pages" Section.
-Under "Source" I selected "Master Branch".
-The link was then published in the "GitHub Pages" section.
+<li>I logged in to GitHub and located the GitHub Repository Milestone Project 1</li>
+<li>I then clicked the Settings button on the menu.</li>
+<li>I scrolled down the Settings page to the "GitHub Pages" Section.</li>
+<li>Under "Source" I selected "Master Branch".</li>
+<li>The link was then published in the "GitHub Pages" section.</li>
 
 <h3>Credits</h3>
 Media - I found my images used on https://www.pexels.com/ and https://unsplash.com/  

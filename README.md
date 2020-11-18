@@ -38,41 +38,41 @@ An online store selling packages for development ideas/pricing plans
 
 I have built my site using: 
 
-CSS https://en.wikipedia.org/wiki/CSS 
+<h3>CSS</h3> https://en.wikipedia.org/wiki/CSS 
 CSS allows me to edit and decorate my site in the way I see fit. It gives me the ability to edit my HTML and create classes.
 
-HTML https://en.wikipedia.org/wiki/HTML 
+<h3>HTML</h3> https://en.wikipedia.org/wiki/HTML 
 
-Bootstrap (4.5.3) https://getbootstrap.com/ 
+<h3>Bootstrap (4.5.3)</h3> https://getbootstrap.com/ 
 I used Bootstrap because it allowed me to build a responsive website with the limited knowledge and skills I currently have. It was also used in my Nav Bar and
 to separate my divs into separate sizes across my site. 
 
-Balsamiq https://balsamiq.com/# 
+<h3>Balsamiq</h3> https://balsamiq.com/# 
 I used Balsamiq to help create my template website and try design a quality site. <img src="assets/balsamiq/wireframe.pdf">
 
-Font Awesome https://fontawesome.com/ 
+<h3>Font Awesome</h3> https://fontawesome.com/ 
 Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
-Google Fonts https://fonts.google.com/
+<h3>Google Fonts</h3> https://fonts.google.com/
 Google fonts were used to import the 'Roboto' 'Exo' font into the style.css file which is used on all pages throughout the project.
 
-jQuery https://jquery.com/ 
+<h3>jQuery</h3> https://jquery.com/ 
 jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
 
-*Testing* 
+<h3>Testing</h3> 
 
 I have tested my site thoroughly, all the links are working and take the user to the correct pages. 
 The contact form is fully functioning, if the user inputs an invalid message into any text field then an error message will appear. For example an 
 email address with no @ symbol will bring up an error.
 The webpage will respond when used on smaller devices, the nav bar will shrink down into a drop down menu. 
 
-I placed my site throught a CSS Validator. I came back with 2 errors in the Bootstrap version 4.5.3 "http://jigsaw.w3.org/css-validator/check/referer">
+I placed my site throught a CSS Validator which returned no errors <img src="assets/images/CSSValidator.JPG"> 
 
 I have viewed the site on both mobiles and laptop devices. On iPhones I have noticed that the mobile number was automatically made into a clickable link.
 Whilst this is a helpful feature to promote interaction, the colour of the link is blue. This is similar to the colour of the background. This doesnt happen on the laptop.
 I have tried to remove this using <meta name="format-detection" content="telephone=no">
 
-*Deployment*
+<h3>Deployment</h3>
 
 I have used GitHub Pages to deploy the page using the following steps:
 
@@ -82,10 +82,10 @@ I scrolled down the Settings page to the "GitHub Pages" Section.
 Under "Source" I selected "Master Branch".
 The link was then published in the "GitHub Pages" section.
 
-*Credits*
+<h3>Credits</h3>
 Media - I found my images used on https://www.pexels.com/ and https://unsplash.com/  
 
-*Acknowledgements* 
+<h3>Acknowledgements</h3> 
 
 I received inspiration for my project from a website I designed on https://www.wix.com/dashboard/8382ebdf-1005-401b-acae-10f20c642ad9/home
-My mentor for helping me.  
+My mentor for helping me. 

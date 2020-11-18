@@ -38,25 +38,32 @@ I would like to add a number of features going forward such as: <br>
 
 I have built my site using: 
 
-<h3>CSS</h3> https://en.wikipedia.org/wiki/CSS 
+<h3>CSS</h3>
+https://en.wikipedia.org/wiki/CSS 
 CSS allows me to edit and decorate my site in the way I see fit. It gives me the ability to edit my HTML and create classes.
 
-<h3>HTML</h3> https://en.wikipedia.org/wiki/HTML 
+<h3>HTML</h3> 
+https://en.wikipedia.org/wiki/HTML 
 
-<h3>Bootstrap (4.5.3)</h3> https://getbootstrap.com/ 
+<h3>Bootstrap (v4.5.3)</h3> 
+https://getbootstrap.com/ 
 I used Bootstrap because it allowed me to build a responsive website with the limited knowledge and skills I currently have. It was also used in my Nav Bar and
 to separate my divs into separate sizes across my site. 
 
-<h3>Balsamiq</h3> https://balsamiq.com/# 
+<h3>Balsamiq</h3> 
+https://balsamiq.com/# 
 I used Balsamiq to help create my template website and try design a quality site. <img src="assets/balsamiq/wireframe.pdf">
 
-<h3>Font Awesome</h3> https://fontawesome.com/ 
+<h3>Font Awesome</h3> 
+https://fontawesome.com/ 
 Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
-<h3>Google Fonts</h3> https://fonts.google.com/
+<h3>Google Fonts</h3> 
+https://fonts.google.com/
 Google fonts were used to import the 'Roboto' 'Exo' font into the style.css file which is used on all pages throughout the project.
 
-<h3>jQuery</h3> https://jquery.com/ 
+<h3>jQuery</h3> 
+https://jquery.com/ 
 jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
 
 <h3>Testing</h3> 
@@ -70,7 +77,7 @@ I placed my site throught a CSS Validator which returned no errors <img src="ass
 
 I have viewed the site on both mobiles and laptop devices. On iPhones I have noticed that the mobile number was automatically made into a clickable link.
 Whilst this is a helpful feature to promote interaction, the colour of the link is blue. This is similar to the colour of the background. This doesnt happen on the laptop.
-I have tried to remove this using "<meta name="format-detection" content="telephone=no">"
+I have tried to remove this using "< meta name="format-detection" content="telephone=no">"
 
 <h3>Deployment</h3>
 
@@ -83,6 +90,7 @@ I have used GitHub Pages to deploy the page using the following steps:
 <li>The link was then published in the "GitHub Pages" section.</li>
 
 <h3>Credits</h3>
+
 Media - I found my images used on https://www.pexels.com/ and https://unsplash.com/  
 
 <h3>Acknowledgements</h3> 
